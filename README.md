@@ -28,7 +28,7 @@ Note this is a preliminary version, as the furniture still is under construction
 
 * For training you are allowed to take two objects per team for a short time and then return it
 * Objects have been bought at IGA. You can buy them on your own for training
-* [Object List][images/objects.html] 
+* [Object List](images/objects.html)
 
 ## Stage 1
 
