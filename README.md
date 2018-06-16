@@ -34,10 +34,17 @@ Note this is a preliminary version, as the furniture still is under construction
 
 ### Speech and Person Recognition
 
+<!--![Speech And Person](images/speech_and_person.png "Speech And Person")-->
+
 ### Help Me Carry
+
+<!--![Help Me Carry](images/help_me_carry.png "Help Me Carry")-->
 
 ### Storing Groceries
 
+<!--![Storing Groceries](images/storing_groceries.png "Storing Groceries")-->
+
 ### GPSR
 
+<!--![GPSR](images/help_me_carry.png "GPSR")-->
 
