@@ -6,15 +6,17 @@ Schedules, data, and applications for the RoboCup world championship 2018 taking
 Test Schedule
 
 #### Data Files
-- Arena map and locations
-- List of official names
-- List of objects and categories
-- List of predefined questions
+- [Arena map and locations](https://github.com/RoboCupAtHome/Montreal2018/blob/master/images/arena.png)
+- [List of official names](https://github.com/RoboCupAtHome/Montreal2018/blob/master/Files/Names.pdf)
+- [List of objects and categories](https://github.com/RoboCupAtHome/Montreal2018/blob/master/Files/Objects.pdf)
+- [List of predefined questions](https://github.com/RoboCupAtHome/Montreal2018/blob/master/Files/Questions.pdf)
+- [List of predefined locations](https://github.com/RoboCupAtHome/Montreal2018/blob/master/Files/Category%20locations.pdf)
 
 #### Applications
 - Questions generator **_Speech and Person Recognition_** test
 - Command generator for the **_GPSR_** test
 - Command generator for the **_EEGPSR_** test
+[[Download All]](https://github.com/RoboCupAtHome/Montreal2018/tree/master/Generators)
 
 # Task Information
 
@@ -33,16 +35,16 @@ Test Schedule
 
 ## Default locations
 
-| Object Class        | Location      |
-| ------------------- | ------------- |
-| drinks              | counter       |
-| cleaning stuff      | side table    |
-| snacks              | bookcase      |
-| fruits              | bookcase      |
-| containers          | end table     |
-| food                | cupboard      |
-| cutlery             | storage table |
-| tableware           | storage table |
+| Object Class        | Location      | Room        |
+| ------------------- | ------------- | ------------|
+| Cleaning stuff      | Side table    | Bedroom     |
+| Containers          | End table     | Living room |
+| Cutlery             | Storage table | Kitchen     |
+| Drinks              | Counter       | Kitchen     |
+| Food                | Cupboard      | Kitchen     |
+| Fruits              | Bookcase      | Living room |
+| Snacks              | Bookcase      | Living room |
+| Tableware           | Storage table | Kitchen     |
 
 
 
