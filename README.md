@@ -41,7 +41,8 @@ Test Schedule
 | fruits              | bookcase      |
 | container           | end table     |
 | food                | cupboard      |
-| kitchen stuff       | storage table |
+| cutlery             | storage table |
+| tableware           | storage table |
 
 
 
