@@ -30,6 +30,20 @@ Note this is a preliminary version, as the furniture still is under construction
 * Objects have been bought at IGA. You can buy them on your own for training
 * [Object List](Files/Objects.pdf)
 
+## Default locations
+
+| Object Class      | Location      |
+|===================|===============|
+| drinks            | counter       |
+| cleaning stuff    | side table    |
+| snacks            | bookcase      |
+| fruits            | bookcase      |
+| container         | couch table   |
+| food              | cupboard      |
+| kitchen stuff     | storage table |
+
+
+
 ## Stage 1
 
 ### Robot Inspection
