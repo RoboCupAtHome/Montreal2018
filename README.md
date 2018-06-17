@@ -66,5 +66,5 @@ Test Schedule
 
 ### GPSR
 
-<!--![GPSR](images/help_me_carry.png "GPSR")-->
+![GPSR](images/gpsr.png "GPSR")
 
