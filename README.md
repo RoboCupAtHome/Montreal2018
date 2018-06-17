@@ -20,8 +20,9 @@ Test Schedule
 
 ## Arena
 
-Note this is a preliminary version, as the furniture still is under construction
+* [3d model available here](files/arena.obj) (measurements are just approximate)
 
+![Arena3d](images/arena3d.png "Arena 3d")
 ![Arena](images/arena.png "Arena")
 
 ## Objects
