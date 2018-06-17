@@ -32,15 +32,15 @@ Note this is a preliminary version, as the furniture still is under construction
 
 ## Default locations
 
-| Object Class      | Location      |
-|===================|===============|
-| drinks            | counter       |
-| cleaning stuff    | side table    |
-| snacks            | bookcase      |
-| fruits            | bookcase      |
-| container         | couch table   |
-| food              | cupboard      |
-| kitchen stuff     | storage table |
+| Object Class        | Location      |
+| ------------------- | ------------- |
+| drinks              | counter       |
+| cleaning stuff      | side table    |
+| snacks              | bookcase      |
+| fruits              | bookcase      |
+| container           | couch table   |
+| food                | cupboard      |
+| kitchen stuff       | storage table |
 
 
 
