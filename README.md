@@ -54,7 +54,7 @@ Test Schedule
 
 ### Speech and Person Recognition
 
-<!--![Speech And Person](images/speech_and_person.png "Speech And Person")-->
+![Speech And Person](images/speech_and_person.png "Speech And Person")
 
 ### Help Me Carry
 
