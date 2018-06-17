@@ -39,7 +39,7 @@ Test Schedule
 | cleaning stuff      | side table    |
 | snacks              | bookcase      |
 | fruits              | bookcase      |
-| container           | end table     |
+| containers          | end table     |
 | food                | cupboard      |
 | cutlery             | storage table |
 | tableware           | storage table |
@@ -58,11 +58,11 @@ Test Schedule
 
 ### Help Me Carry
 
-<!--![Help Me Carry](images/help_me_carry.png "Help Me Carry")-->
+![Help Me Carry](images/help_me_carry.png "Help Me Carry")
 
 ### Storing Groceries
 
-<!--![Storing Groceries](images/storing_groceries.png "Storing Groceries")-->
+![Storing Groceries](images/storing_groceries.png "Storing Groceries")
 
 ### GPSR
 
