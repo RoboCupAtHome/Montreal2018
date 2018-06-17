@@ -32,6 +32,10 @@ Note this is a preliminary version, as the furniture still is under construction
 
 ## Stage 1
 
+### Robot Inspection
+
+![Robot Inspection](images/rips.png "Robot Inspection")
+
 ### Speech and Person Recognition
 
 <!--![Speech And Person](images/speech_and_person.png "Speech And Person")-->
