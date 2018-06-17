@@ -39,7 +39,7 @@ Test Schedule
 | cleaning stuff      | side table    |
 | snacks              | bookcase      |
 | fruits              | bookcase      |
-| container           | couch table   |
+| container           | end table     |
 | food                | cupboard      |
 | kitchen stuff       | storage table |
 
