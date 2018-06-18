@@ -64,6 +64,15 @@ Test Schedule
 
 ![Storing Groceries](images/storing_groceries.png "Storing Groceries")
 
+
+### Cocktail Party
+
+* Bar location is the counter
+* Party room is the living room
+
+![Cocktail Party](images/cocktail_party.png "Cocktail Party")
+
+
 ### GPSR
 
 ![GPSR](images/gpsr.png "GPSR")
