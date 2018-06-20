@@ -66,10 +66,6 @@ Test Schedule
 
 ![Storing Groceries](images/storing_groceries.png "Storing Groceries")
 
-### EEGPSR
-
-![EEGPSR](images/eegpsr.png "EEGPSR")
-
 ### Cocktail Party
 
 * Bar location is the counter
@@ -82,3 +78,6 @@ Test Schedule
 
 ![GPSR](images/gpsr.png "GPSR")
 
+### EEGPSR
+
+![EEGPSR](images/eegpsr.png "EEGPSR")
